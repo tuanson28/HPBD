@@ -1,5 +1,5 @@
 const nameGirl = 'Em Thư';
-const giftUrl = 'https://drive.google.com/drive/folders/1-0ia2nT7eiT5mNT8Xh1ZI9WWlioseri9';
+const giftUrl = 'https://youtu.be/5AXvMlKcCVo?si=LYWbTtSMxRyK4xx0';
 const eventName = 'Chúc Mừng Sinh Nhật';
 const titleCard = 'Chúc Em Thư';
 const contentCard = 'Chúc Thư có một sinh nhật tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em. <3';
