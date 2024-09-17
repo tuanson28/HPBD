@@ -1,4 +1,4 @@
-const nameGirl = 'Em Thư 11/02/2025';
+const nameGirl = 'Em Thư';
 const giftUrl = 'https://www.facebook.com/profile.php?id=100006743765628&mibextid=LQQJ4d';
 const eventName = 'Chúc Mừng Sinh Nhật';
 const titleCard = 'Chúc Em Thư';
